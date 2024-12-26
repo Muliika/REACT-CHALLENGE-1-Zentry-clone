@@ -194,6 +194,7 @@ const Features = () => (
     </div>
   </section>
 );
+
 BentoCard.propTypes = {
   src: PropTypes.string.isRequired,
   title: PropTypes.node.isRequired,
